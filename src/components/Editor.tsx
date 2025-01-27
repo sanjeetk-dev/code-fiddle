@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import AceEditor from 'react-ace';
 import Split from 'react-split';
-import { Files, Code2, Play, FileDown, Copy, Trash2, Menu, X, Terminal, Maximize2, Minimize2, Settings } from 'lucide-react';
+import { Files, Play, Copy, X, Terminal, Minimize2, Settings } from 'lucide-react';
 import ace from 'ace-builds';
 import 'ace-builds/src-noconflict/mode-html';
 import 'ace-builds/src-noconflict/mode-css';
